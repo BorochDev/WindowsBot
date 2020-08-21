@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Source\\Repos\\BorochDev\\WindowsBot\\Bot\\Bot\\Bot.csproj": {}
+    "C:\\Users\\User\\source\\repos\\BorochDev\\WindowsBot\\Bot\\Bot.Tests\\Bot.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Source\\Repos\\BorochDev\\WindowsBot\\Bot\\Bot\\Bot.csproj": {
+    "C:\\Users\\User\\source\\repos\\BorochDev\\WindowsBot\\Bot\\Bot.Tests\\Bot.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\BorochDev\\WindowsBot\\Bot\\Bot\\Bot.csproj",
-        "projectName": "Bot",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\BorochDev\\WindowsBot\\Bot\\Bot\\Bot.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\BorochDev\\WindowsBot\\Bot\\Bot.Tests\\Bot.Tests.csproj",
+        "projectName": "Bot.Tests",
+        "projectPath": "C:\\Users\\User\\source\\repos\\BorochDev\\WindowsBot\\Bot\\Bot.Tests\\Bot.Tests.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\BorochDev\\WindowsBot\\Bot\\Bot\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\BorochDev\\WindowsBot\\Bot\\Bot.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -42,6 +42,24 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

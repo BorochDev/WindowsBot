@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Source\\Repos\\BorochDev\\WindowsBot\\Bot\\Bot\\Bot.csproj": {}
+    "C:\\Users\\User\\source\\repos\\BorochDev\\WindowsBot\\Bot\\Bot.App\\Bot.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Source\\Repos\\BorochDev\\WindowsBot\\Bot\\Bot\\Bot.csproj": {
+    "C:\\Users\\User\\source\\repos\\BorochDev\\WindowsBot\\Bot\\Bot.App\\Bot.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\BorochDev\\WindowsBot\\Bot\\Bot\\Bot.csproj",
-        "projectName": "Bot",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\BorochDev\\WindowsBot\\Bot\\Bot\\Bot.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\BorochDev\\WindowsBot\\Bot\\Bot.App\\Bot.App.csproj",
+        "projectName": "Bot.App",
+        "projectPath": "C:\\Users\\User\\source\\repos\\BorochDev\\WindowsBot\\Bot\\Bot.App\\Bot.App.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\BorochDev\\WindowsBot\\Bot\\Bot\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\BorochDev\\WindowsBot\\Bot\\Bot.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
