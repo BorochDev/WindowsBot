@@ -5,10 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Abstract\" />
-    <Folder Include="Common\" />
-    <Folder Include="Concrete\" />
-    <Folder Include="Manager\" />
+    <ProjectReference Include="..\Bot.Domains\Bot.Domains.csproj" />
   </ItemGroup>
 
 </Project>
